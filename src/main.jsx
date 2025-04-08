@@ -24,6 +24,9 @@ const router = createBrowserRouter([
       },
     ],
   },
+  {
+    path: "/myntra-react",
+  },
 ]);
 
 createRoot(document.getElementById("root")).render(
