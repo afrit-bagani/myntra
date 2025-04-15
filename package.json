@@ -1,9 +1,8 @@
 {
-  "name": "myntra",
-  "private": true,
+  "name": "myntra-frontend",
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://afrit-bagani.gitgub.io/myntra-react",
+  "homepage": "https://afrit-bagani.github.io/myntra/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
