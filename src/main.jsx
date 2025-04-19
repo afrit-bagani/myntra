@@ -15,11 +15,11 @@ const router = createBrowserRouter([
     element: <App />,
     children: [
       {
-        path: "/",
+        path: "/myntra",
         element: <Home />,
       },
       {
-        path: "/bag",
+        path: "/myntra/bag",
         element: <Bag />,
       },
     ],
