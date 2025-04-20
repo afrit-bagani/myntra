@@ -1,6 +1,6 @@
 const items = [
   {
-    id: "001",
+    id: "00A",
     image: "images/1.jpg",
     company: "Carlton London",
     item_name: "Rhodium-Plated CZ Floral Studs",
